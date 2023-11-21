@@ -7,7 +7,11 @@ pls provide your video or verbose of anticheat when report issues, otherwise I w
 
 How To Open Verbose Of AntiCheats
 /matrix verbose [Matrix]
-/grim verbose [GrimAC] + /grim debug + 玩家名字/PlayerName [GrimAC Simulation Debug/GrimAC的模拟移动分析]        
+
+/grim verbose [GrimAC] + /grim debug + 玩家名字/PlayerName [GrimAC Simulation Debug/GrimAC的模拟移动分析]      
+
 /vulcan:verbose [Vulcan]
+
 /aac debug [AAC Simulation Debug/AAC的模拟移动分析]   
+
 /intave verbose [Intave]
